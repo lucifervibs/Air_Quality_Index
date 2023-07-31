@@ -9,6 +9,4 @@
   5. XgBoost Regression
   6. Artificial Neural Nets(ANN)
   7. K Nearest Neighbor Regression(KNN)
-- Web Framework used : Flask
 - Data can be found [here](https://en.tutiempo.net/climate/02-2013/ws-432950.html).
-- Deployed at []().
