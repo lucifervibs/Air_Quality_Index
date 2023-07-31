@@ -1,6 +1,5 @@
 # Air Quality Index Predictor
 
-- A simple web app that predicts Air Quality Indices using Machine Learning.
 - Machine Learning Algorithms used:
   1. Linear Regression
   2. Lasso Regression
