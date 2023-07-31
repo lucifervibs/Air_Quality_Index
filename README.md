@@ -1,4 +1,4 @@
-# Air Quality Index
+# Air Quality Index Predictor
 
 - A simple web app that predicts Air Quality Indices using Machine Learning.
 - Machine Learning Algorithms used:
